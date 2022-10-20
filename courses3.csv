@@ -1,0 +1,270 @@
+"Semester
+",Course Code,Course Name,L,T,P,"Credits
+",Name of the Instructor,Lecture,Tutorial,Lab,No of students,Pre-requisite,Branch,Year,tags
+Odd,FP 100,Foundation Programme,-,-,-,4,,,,,204,,,1,no tags
+Odd,MA 101,Mathematics I,4,2,0,4,"Bipul Saurabh (I+T),    Arnab Saha (T), Mohan Joshi (T), Akilandeeswari (T), Pramod Eyyuni (T)","A, B2 (1/003)","Batch 1 - B3+C2 (7/102)
+Batch 2 - B3+C2 (7/103)
+Batch 3 - B3+C2 (7/110)
+Batch 4 - B3+C2 (1/102)
+Batch 5 - B3+C2 (7/204)",,214,,,1,"Bipul Saurabh,MA"
+Odd,ES 101,Engineering Graphics,2,0,3,3,"Kaustubh Rane (I + L), Gaurav Srivastava (L), Jayaprakash KR (L), Pradipta Ghosh (L)","C1, C3 (1/003)",,"L1+J1 (7/108, 7/109, 1/101, 1/102)
+L2+J2 (7/108, 7/109, 1/101,1/102)
+",206,,,1,"Kaustubh Rane,ES"
+Odd,ES 102,Introduction to Computing,2,0,2,3,Krishna Prasad (I + L),"G1, G2 (1/101)",,"G3+I3 (7/108, 7/109)
+K2+M2 (7/109)",165,,,1,"Krishna Prasad,ES"
+Odd,ES 112,Computing,2,0,2,3,Manoj Gupta (I + L),"G1, G2 (1/102)",,"K3+M3 (7/108, 7/109)",110,,,1,"Manoj Gupta,ES"
+Odd,ES 103,Introduction to Electrical Systems,3,1,0,4,"Naran Pindoriya (I+T),Ragavan K (T)S Rajendran (T)Nitin Khanna (T)Shivashankar Sukumar (T) ","F1,F2,F3 (1/003)","Batch 1 - B1 (7/201)
+Batch 2 - B1 (7/203)
+Batch 3 - B1 (7/204)
+Batch 4 - B1 (1/003)
+Batch 5 - B1 (7/202)",,208,,,1,"Naran Pindoriya,ES"
+Odd,BE 101,Introduction to Life Sciences: Fundamentals of Life,3,1,0,4,"Umashankar Singh (I+T),Sharmistha Majumdar (I+T), Karla PMS (T), Dhiraj Bhatia (T), Virupakshi Soppina (T), Sudipta Basu (T)","Section 1 - D (1/102)
+Section 2 - H (1/102)",Batch 1 - N1 (7/107)             Batch 2 - N1 (7/207)        Batch 3 - N1 (7/208)        Batch 4 - N1 (7/209)        Batch 5 - N1(1/101),,210,,,1,"Umashankar Singh,Sharmistha Majumdar,BE"
+Odd,HS 101,English Studies,3,1,0,4,Arnapurna Rath (I + T),E (1/101),M1 (1/101),,54,,,1,"Arnapurna Rath,HS"
+Odd,HS 102,Pleasures of English Studies,3,1,0,4,Sharmita Lahiri (I + T),E (7/209),M1 (7/209),,50,,,1,"Sharmita Lahiri,HS"
+Odd,HS 104,Foundational Sanskrit,3,1,0,4,Mana Shah (I + T),E (7/107),M1 (7/202),,50,,,1,"Mana Shah,HS"
+Odd,HS 103,French studies,3,1,0,4,Ms. Tina Chaudouet (I + T),E (1/102),M1 (1/102),,51,,,1,"Ms. Tina Chaudouet,HS"
+Odd,PE 101,Physical Education,0,0,0,0,,,,,208,,,1,no tags
+Odd,PH 102,B.Tech Physics Laboratory,0,0,4,2,"Krishna Kanti Dey (T), Course Associates: Gopinadhan Kalon, Prasanna B, Vinod Chandra,Barath Coleppa",,,"Batch 1 - K1+M1+N1+P1
+Batch 2 - J1+L1+R1
+Batch 3 - K2+M2+N2+P2
+Batch 4 - K3+M3+N3+R2
+Batch 5 - J2+L2+R3",187,,,2,"Gopinadhan Kalon,Prasanna B,Vinod Chandra,Barath Coleppa,PH"
+Odd,HS 221,Introduction to Philosophy,3,0,0,4,Jaison Manjaly,E (1/003),,,198,,,2,"Jaison Manjaly,HS"
+Odd,MA 201,Mathematics III,3,2,0,4,"N. Ladhawala (I),Chelva Kumar (I), Akshaa Vatwani (T-first half)/Chelva Kumar (T-second half), Sudipta Sarkar (T), Uddipta Ghosh (T), Rajat Gupta-GTF (T), Shivam Dhama-GTF (T)",H (1/003),Batch 1 - G3+I3 (7/106) Batch 2 - G3+I3 (7/110) Batch 3 - G3+I3 7(/203) Batch 4 - G3+I3 (7/204)  Batch 5 - G3+I3 (7/207),,192,,,2,"N. Ladhawala,Chelva Kumar,MA"
+Odd,CH 201,General Chemistry,3,0,0,4,"Sudhanshu Sharma,Chandrakumar Appayee","Section 1 - F (1/101)
+Section 2 - F (1/102)",,,183,,,2,"Sudhanshu Sharma,Chandrakumar Appayee,CH"
+Odd,ES 201,Introduction to Design and Innovation,2,0,4,4,Manasi Kanetkar,"G1, G2 (1/003)",,"Section 1 [CE, CL,and CSE] - J1+L1+R1
+Section 2 [EE, ME,and MSE] - J2+L2+R3",186,,,2,"Manasi Kanetkar,ES"
+Odd,ES 211,Thermodynamics,3,2,0,4,"Atul Bhargav (I), Uddipta Ghosh (T)Chinmay Ghoroi (T), Raghavan Ranganathan (T)",C (7/208),Batch 1: M2+N2 (7/206) Batch 2: M2+N2 (7/208) Batch 3: M2+N2 (7/210),,90,,"CL,ME,MSE",2,"Atul Bhargav,ES"
+Odd,ES 203,Digital Systems,2,1,3,4,Joycee Mekie,"D1, D3 (7/208)","Batch A - D2 (7/208)
+Batch B - K3 (7/209)","K1+M1+N1 (7/108, 7/109)
+ ",78,,"EE, CS",2,"Joycee Mekie,ES"
+Odd,EE 221,Electronic Devices,2,1,0,3,Arup Lal Chakraborty,"C1, C2 (7/205)",C3 (7/205),,41,,EE,2,"Arup Lal Chakraborty,EE"
+Odd,CE 201,Earth Materials and Processes,2,0,3,4,Saptarshi Dey,"D1, D3 (7/204)",,K1+M1+N1 (7/105),27,,CE,2,"Saptarshi Dey,CE"
+Odd,CL 201,Chemical Process Calculations,1,2,0,2,Kaustubh Rane (I+T),B1 (7/110),K1+M1 (7/110),,33,,CL,2,"Kaustubh Rane,CL"
+Odd,ES 242,Data Structures and Algorithms - I,2,0,2,3,Neeldhara Misra,"P1, M3 (7/209)",,N3+R2 (7/108 Computer Lab),77,ES102 or ES 112,CS,2,"Neeldhara Misra,ES"
+Odd,ES 202,Introduction to Materials,3,1,0,4,Abhijit Mishra,D (7/203),K2 (7/110),,20,,MSE,2,"Abhijit Mishra,ES"
+Odd,ES 321,"Dynamics and Vibrations 
+
+",3,1,0,4,"Jayaprakash KR (I+T), Vineet (I+T)",D (7/110),P2( 7/110),,41,,ME,2,"Jayaprakash KR,Vineet,ES"
+Odd,CL 221,Chemical Engineering Thermodynamics,3,1,0,4,Kabeer Jasuja (I+T),D (7/210),G2 (7/210),,29,,CL,3,"Kabeer Jasuja,CL"
+Odd,CL 322,Chemical Reaction Engineering,3,1,0,4,Mithun Radhakrishna (I+T),F (7/210),G3 (7/210),,31,,CL,3,"Mithun Radhakrishna,CL"
+Odd,CL 351,Heat Transfer and Thermodynamics Lab,0,0,4,2,Prachi Thareja (I+T),,K2+M2+N2+P2,,29,,CL,3,"Prachi Thareja,CL"
+Odd,CL 425,Process Synthesis and Design,3,1,0,4,Babji Srinivasan (I+T),D (7/201),K2 (7/210),,22,,CL,4,"Babji Srinivasan,CL"
+Odd,CL 451,Process Dynamics and Control Lab,0,0,4,2,Nitin Padhiyar (I+T),,,K1+M1+N1+P1,22,,CL,4,"Nitin Padhiyar,CL"
+Odd,CE 302,Structural Analysis,3,1,0,4,Gaurav Srivastava,C (7/101),B1 (7/101),,24,,CE,3,"Gaurav Srivastava,CE"
+Odd,CE 301,Soil Mechanics,3,1,2,5,Sarvesh Chandra(I),Ajanta Sachan (Lab),E (7/101),G3 (7/101),24,,CE,3,"Sarvesh Chandra,CE"
+Odd,CE 308,Water Resource Engineering,2,0,3,4,Udit Bhatia and Pranab Mohapatra,"D2, D3 (7/101)",,K1+M1+N1,24,,CE,3,"Udit Bhatia,Pranab Mohapatra,CE"
+Odd,CE 303,Geospatial Engineering,1,0,3,3,Vikrant Jain/Vimal Mishra,H2 (7/101),,D1+G1+H1 (7/101),23,,CE,3,"Vikrant Jain,Vimal Mishra,CE"
+Odd,CE 401,Comprehensive Project - I,0,0,3,4,Manish Kumar,,,L1+J1 (7/208),28,,CE,4,"Manish Kumar,CE"
+Odd,CS 302,Theory of Computation,3,1,0,4,Bireswar Das,E (7/102),D3 (7/102),,44,"Mathematical Maturity, Good Programming Skills",CS,3,"Bireswar Das,CS"
+Odd,CS 301,Operating Systems,3,0,2,5,Nipun Batra,F (7/102),,D1+G1 (7/109),46,ES 203 Digital Systems,CS,3,"Nipun Batra,CS"
+Odd,ES 331,Probability and Random Processes,3,1,0,4,Shanmuganathan Raman,#REF!,#REF!,,44,,"CS,EE",3,"Shanmuganathan Raman,ES"
+Odd,EE 332,Power Systems,3,1,0,4,Ragavan K,D (7/103),G2 (7/103),,41,,EE,3,"Ragavan K,EE"
+Odd,EE 321,Analog Circuits,3,1,3,5,"Nihar Mohapatra (I+T), Uttama Lahiri (L), Himanshu Shekhar (L+T)",E (7/103),G3 (7/103),J2+L2,41,EE221 Electronic Devices,EE,3,"Nihar Mohapatra,EE"
+Odd,EE 311,Electromagnetic Waves,3,1,0,4,Ravi Hegde,F (7/103),G1 (7/103),,30,,EE,3,"Ravi Hegde,EE"
+Odd,EE 411,Digital Signal Processing,3,1,0,4,Nithin George,C (7/209),B1(7/209),,63,,EE,4,"Nithin George,EE"
+Odd,EE 431,Electrical Systems Lab,0,0,4,2,S Rajendran,,,T1+K2+M2+N2 (1PM to 5PM),34,,EE,4,"S Rajendran,EE"
+Odd,ES 311,Heat and Mass Transfer,3,1,0,4,#REF!,#REF!,#REF!,,63,,"ME,CL",3,"#REF!,ES"
+Odd,ME 321,Mechanics of Deformable Bodies,3,1,0,4,Ravi Ayyagari,C (7/107),B1 (7/107),,37,,ME,3,"Ravi Ayyagari,ME"
+Odd,ME 331,Manufacturing Processes and Systems,3,1,0,4,N. Ramakrishnan,F (7/107),G2 (7/107),,34,,ME,3,"N. Ramakrishnan,ME"
+Odd,ME 351,Mechanical Engineering Laboratory I,0,0,4,2,Vinod Narayanan,Ravi Ayyagari,Atul Bhargav,,33,K2+M2+N2+P2 (7/209 2PM to 6PM),ME,3,"Vinod Narayanan,ME"
+Odd,ME 492,Integrated Design and Manufacturing II,0,1,4,2,N. Ramakrishnan,,D2 (7/209),"D1+G1, D3+G3 (7/209)",30,,ME,4,"N. Ramakrishnan,ME"
+Odd,MSE 303,Mechanical Behaviour of Materials,3,0,2,5,Pradipta Ghosh(I+L) and Amit Arora (L),"D2, D3 (7/106), R1 (7/201)",,J1+L1,23,,MSE,3,"Pradipta Ghosh,Amit Arora,MSE"
+Odd,MSE 304,Principles of Metal Extraction and Refining,3,0,0,4,SP Mehrotra,C (7/106),,,25,,MSE,3,"SP Mehrotra,MSE"
+Odd,MSE 305,Advanced Materials,3,0,0,4,Superb Misra,F (7/106),,,25,,MSE,3,"Superb Misra,MSE"
+Odd,MSE 310,Physics of Materials,3,1,0,4,Emila Panda,E (7/106),T3 (7/106),,26,,MSE,3,"Emila Panda,MSE"
+Both,CG 504,Research Methods in Cognitive Science,2,0,2,4,Pratik Mutha,"K1, M1 (7/102)",,K2+M2 (7/102),18,,ELE,,"Pratik Mutha,CG"
+Both,CG 505,Fundamental Neuroscience,3,0,0,4,Leslee Lazar,E (7/202),,,54,,ELE,,"Leslee Lazar,CG"
+Both,CG 606,Philosophy of Mind,3,0,0,4,Jaison Manjaly,F (7/207),,,35,,ELE,,"Jaison Manjaly,CG"
+Both,CG 503,Fundamentals of Cognitive Psychology,3,0,0,4,Meera Sunny,C (7/201),,,16,,ELE,,"Meera Sunny,CG"
+Both,CG 605,Learning and Memory,3,0,0,4,Leslee Lazar,D (7/104),,,12,,ELE,,"Leslee Lazar,CG"
+Both,CG 501,Computation and Cognition,3,0,0,4,Krishna Miyapuram,D (7/206),,,17,,ELE,,"Krishna Miyapuram,CG"
+Both,CG 607,Emotion and Cognition,3,0,0,4,Meera Sunny,L (7/104),,,11,,ELE,,"Meera Sunny,CG"
+Both,CE 607,Adv. Structural Analysis,3,0,0,4,Manish Kumar,K (7/104),,,11,,ELE,,"Manish Kumar,CE"
+Both,ES 621,Adv Solid Mechanics,3,0,0,4,Ashwini Kumar,F (7/105),,,24,,ELE,,"Ashwini Kumar,ES"
+Both,CE 611,Adv. Engineering Hydrology,3,0,0,4,Vimal Mishra,L (7/105),,,18,,ELE,,"Vimal Mishra,CE"
+Both,CE 625,Adv Hydraulic Engineering,3,0,0,4,Pranab Mohapatra,K (7/106),,,17,,ELE,,"Pranab Mohapatra,CE"
+Both,CE 601,Adv Geotechnical Engineering,3,0,3,5,Ajanta Sachan,M (7/107),,J2+L2,8,,ELE,,"Ajanta Sachan,CE"
+Both,CE 633,Water Resource Systems: Planning and Management,3,1,0,4,Udit Bhatia,"M2+N2, M3 (7/104)",E3+F3 (7/104),,23,,ELE,,"Udit Bhatia,CE"
+Both,ES 635,Water Quality Engineering,3,0,0,4,Manish Singh,J (7/105),,,18,,ELE,,"Manish Singh,ES"
+Both,MSE 622,Advance Metal Forming Technology,3,0,0,4,Jyoti Mukhopadhyay,J (7/201),,,17,,ELE,,"Jyoti Mukhopadhyay,MSE"
+Both,MSE 603,Thin Film Processing and characterization,3,0,0,4,Emila Panda,"I2+J1 (7/101), G3+I3 (7/107)",,,11,,ELE,,"Emila Panda,MSE"
+Both,MSE 403,Science and Technology of Welding and Joining,3,0,0,4,Amit Arora,N (7/110),,,6,,ELE,,"Amit Arora,MSE"
+Both,MSE 629,Structure and Defects of Materials,3,0,0,4,Abhijit Misra,M (7/207),,,24,,ELE,,"Abhijit Misra,MSE"
+Both,MSE 631,Thermodynamics of Materials,3,0,0,4,Abhay Gautam,I1+K1 (7/206) N2+P2 (7/207),,,14,,ELE,,"Abhay Gautam,MSE"
+Both,MSE 632,Characterization of Materials,3,0,2,4,Superb Misra,"P2, R3 (7/207)",,K2+M2,29,,ELE,,"Superb Misra,MSE"
+Both,CE 404,Transportation Engineering,3,0,0,4,Amit Goel/Pranab Mohapatra,,,,18,,ELE,,"Amit Goel,Pranab Mohapatra,CE"
+Both,CL 601,Advance Transport Phenomena,3,1,0,4,Pratyush Dayal (I+T)Vandana Rajput (T),E (7/110),K3 (7/101),,17,,ELE,,"Pratyush Dayal,Vandana Rajput,CL"
+Both,CL 627,Particulate Solids: Processing & Surface Engineering,3,0,0,4,Chinmay Ghoroi,F (7/110),,,4,,ELE,,"Chinmay Ghoroi,CL"
+Both,ES 617,Design of Experiments,3,0,0,4,Nitin Padhiyar,G (7/105),,,38,,ELE,,"Nitin Padhiyar,ES"
+Both,CL 605,Colloidal Domain: Where Science meets Engineering,3,0,0,4,Prachi Thareja,J (7/107),,,10,,ELE,,"Prachi Thareja,CL"
+Both,BE 401,Methods in Biology,0,0,3,2,Sharad Gupta+GTF,,,J1+L1,13,UG level Molecular Biology & Biochemistry,ELE,,"Sharad Gupta+GTF,BE"
+Both,BE 607,Molecular and Cellular Biotechnology,3,0,0,4,Sharad Gupta,K (7/103),,,18,UG level Molecular Biology & Biochemistry,ELE,,"Sharad Gupta,BE"
+Both,BE 303,Bionanotechnology - Principles and Applications,3,0,0,4,Dhiraj Bhatia,C (7/104),,,27,,ELE,,"Dhiraj Bhatia,BE"
+Both,PH 404,Molecular & Crystal Physics,3,0,0,4,Vijay Thiruvenkatam,H (7/105),,,5,,ELE,,"Vijay Thiruvenkatam,PH"
+Both,PH 508,Classical Mechanics,3,1,0,4,Gopinadhan Kalon,C (7/105),B1 (7/105),,37,,ELE,,"Gopinadhan Kalon,PH"
+Both,PH 503,Quantum Mechanics I,3,1,0,4,Prasanna V,D(7/105),K3 (7/105),,41,,ELE,,"Prasanna V,PH"
+Both,PH 502,Mathematical Methods of Physics - I,3,1,0,4,Barath Coleppa,E (7/206),K2 (7/206),,38,,ELE,,"Barath Coleppa,PH"
+Both,PH 510,Condensed Matter Physics,3,1,0,4,Rupak Banerjee,F (7/206),G1 (7/206),,31,,ELE,,"Rupak Banerjee,PH"
+Both,PH 509,Computational Physics,2,0,2,4,Anand Sengupta,"A1, A2 (7/107)",,N3+R2 (7/109 Computerlab),29,,ELE,,"Anand Sengupta,PH"
+Both,PH 608,Tools of Theoretical Physics,3,1,0,4,R R Puri,D (7/107),M3 (7/103),,20,,ELE,,"R R Puri,PH"
+Both,PH 609,Introduction to Einstein’s Theory of General Relativity,3,1,0,4,Sudipta Sarkar,P (7/106),G2 (7/106),,12,,ELE,,"Sudipta Sarkar,PH"
+Both,PH 612,Introduction to Quantum Field Theory,3,0,0,4,Vinod Chandra,C (7/207),,,9,,ELE,,"Vinod Chandra,PH"
+Both,PH 605,Topics in Classical Mechanics and Electrodynamics,3,0,0,4,R R Puri,"L1, J2 (7/101)",,,9,,ELE,,"R R Puri,PH"
+Both,EE 605,Digital Image Processing,3,0,0,4,Nitin Khanna,M (7/101),,,37,,ELE,,"Nitin Khanna,EE"
+Both,EE 606,Applied Statistical Bioelectric Signal Analysis,3,1,0,4,Uttama Lahiri,"L1, E3+F3 (7/205)",G3 7/206,,6,,ELE,,"Uttama Lahiri,EE"
+Both,ES 616,Digital Control Systems,3,1,0,4,S Rajendran,H (7/205),K3 (7/110),,21,,ELE,,"S Rajendran,ES"
+Both,EE 617,VLSI Design,3,0,0,4,Joycee Mekie,"J1 (7/102), I3+T2(7/102)",,,17,,ELE,,"Joycee Mekie,EE"
+Both,EE 618,Microelectronics Lab,0,0,4,2,"Joycee Mekie, Nihar Mohapatra",,,K2+M2+N2+P2 (7/108),16,,ELE,,"Joycee Mekie,Nihar Mohapatra,EE"
+Both,EE 619,Special Electrical Machines,3,0,0,4,Ragavan,F (7/202),,,15,,ELE,,"Ragavan,EE"
+Both,EE 629,Power Electronic Converters,3,1,0,4,S Rajendran,"N1, P2, N3 (7/104)",R3 (7/104),,13,,ELE,,"S Rajendran,EE"
+Both,EE 639,Lasers,3,0,0,4,Arup,K (K/207),,,5,,ELE,,"Arup,EE"
+Both,EE 644,Physics of Transistors,3,0,0,4,"Mohit Ganeriwala, Nihar Mohapatra",H (7/210),,,19,,ELE,,"Mohit Ganeriwala,Nihar Mohapatra,EE"
+Both,ES 612,Artificial Intelligence,3,0,0,4,Uttama Lahiri,"B2,B3, P2 (7/202)",,,36,,ELE,,"Uttama Lahiri,ES"
+Both,CH 503,Fundamentals of Analytical Chemistry,3,0,0,4,Sriram Kanvah,C (7/203),,,45,,ELE,,"Sriram Kanvah,CH"
+Both,CH 506,Physical Organic Chemistry,3,0,0,4,Sudipta Basu,J (7/204),,,26,,ELE,,"Sudipta Basu,CH"
+Both,CH 510,Main Group and Transition Metal Chemistry,3,0,0,4,Iti Gupta,G (7/208),,,66,,ELE,,"Iti Gupta,CH"
+Both,CH 511,Quantum Chemistry,3,0,0,4,Sairam Mallajosyula,E (7/203),,,25,,ELE,,"Sairam Mallajosyula,CH"
+Both,CH 513,Advanced Organic Chemistry,3,0,0,4,Sivapriya Kirubakaran,G (7/104),,,21,,ELE,,"Sivapriya Kirubakaran,CH"
+Both,CH 624,Molecular Spectroscopy,3,0,0,4,Saumyakanti Khatua,K (7/204),,,29,Instructor Consent,ELE,,"Saumyakanti Khatua,CH"
+Both,CH 615,Electrochemistry,3,0,0,4,Arnab Dutta,H (1/101),,,114,Instructor Consent,ELE,,"Arnab Dutta,CH"
+Both,CH 627,Metabolism & Biosynthesis,3,0,0,4,Bhaskar Datta,F1+F2 (7/203) F3 (7/201),,,16,Instructor Consent,ELE,,"Bhaskar Datta,CH"
+Both,CE 622,Structural Dynamics,3,0,0,4,Dhiman Basu,J (7/205),,,7,,ELE,,"Dhiman Basu,CE"
+Both,CS 613,Natural Language Processing,3,0,0,4,Mayank Singh,P (1/101),,,68,"Basics of Probability and Statistics, ES 102/112",ELE,,"Mayank Singh,CS"
+Both,CS 610,Algorithms,3,0,0,4,Anirban Dasgupta,"N1, N2 (7/102) C2(7/202)",,,18,"Data Structures, familiarity with undergraduate Algorithms ",ELE,,"Anirban Dasgupta,CS"
+Both,CS 612,Computer Systems,3,0,0,4,"Anirban Dasgupta, Nipun Batra, Mayank Singh",J (7/104),,,11,"Undergraduate level Architecture/Organization, Operating Systems",ELE,,"Anirban Dasgupta,Nipun Batra,Mayank Singh,CS"
+Both,MA 509,Topics in Real Analysis,3,1,0,4,"Akshaa Vatwani (I), Rahul Kumar (GTF)",K (7/207),R1 (7/207),,33,First year MSc Maths course,ELE,,"Akshaa Vatwani,MA"
+Both,MA 504,Introduction to Linear Algebra,3,1,0,4,"Indranath Sengupta (I), V. D. Sharma (I)",Ayush Jaiswal (GTF),F (7/208),R2 (7/205),,52,First year MSc Maths course,ELE,"Indranath Sengupta,V. D. Sharma,MA"
+Both,MA 507,Ordinary Differential Equations,3,1,0,4,"Jagmohan Tyagi (I), Dharmendra (GTF)",C (7/206),I3 (7/206),,33,First year MSc Maths course,ELE,,"Jagmohan Tyagi,MA"
+Both,MA 606,Introduction to De Rham Cohomology,3,0,0,4,Arnab Saha (I),Priyank (TA),E (7/105),,,6,,ELE,"Arnab Saha,MA"
+Both,MA 626,Functional Analysis,3,0,0,4,Mohan C. Joshi (I),Aditiben Savalia (TA),G (7/205),,,27,,ELE,"Mohan C. Joshi,MA"
+Both,MA 627,Algebraic Topology,3,0,0,4,"Sanjay Amrutiya (I), Sudip Pandit (TA)",J (7/210),,,27,,ELE,,"Sanjay Amrutiya,MA"
+Both,MA 6XX,Theory of Partitions,3,0,0,4,Atul Dixit,L,,,15,,ELE,,"Atul Dixit,MA"
+Both,MA 630,Probability Theory,3,0,0,4,Chetan D. Pahlajani (I),Ekta Punia (TA),H (7/202),,,9,,ELE,"Chetan D. Pahlajani,MA"
+Both,MA 628,Algebra II,3,0,0,4,Indranath Sengupta (I),Kamalesh Saha (TA),"K1+M1, K2+M2 (7/203)",,,11,,ELE,"Indranath Sengupta,MA"
+Both,MA 692,Special topics in Mathematics: Financial Mathematics (second half of the semester),3,0,0,2,Paresh Date (I),Pranjal Shrivastava (TA),M (7/106),,,32,,ELE,"Paresh Date,MA"
+Both,MA 601,Mathematical Methods in Engineering,3,0,0,4,Paresh Date (I),Shivajee (CA) and Om Prakash (TA),A (1/101),,,110,,ELE,"Paresh Date,MA"
+Both,ES 607,Foundations of Fluid Dynamics,3,1,0,4,Vinod Narayanan,F (7/209),I3 (7/209),,18,UG Fluid Mechanics,ELE,,"Vinod Narayanan,ES"
+Both,ME 605,Computational Fluid Dynamics,3,2,0,4,Sarma Rani (I) Dilip Sundaram (T),"H2,G2, H3  (7/110)",H1+G1 (7/108),,26,Undergraduate fluid mechanics,ELE,,"Sarma Rani,Dilip Sundaram,ME"
+Both,ME 606,Combustion,3,0,0,4,Dilip Sundaram,C (7/210),,,12,UG level Thermodynamics and Fluid Mechanics,ELE,,"Dilip Sundaram,ME"
+Both,ME 635,Compressible Flows,3,0,0,4,Uddipta Ghosh,E (7/207),,,7,UG Fluid Mechanics,ELE,,"Uddipta Ghosh,ME"
+Both,ME 639,Introduction to Robotics,3,0,0,4,Vineet Vashista,"M1, I2, M3 (7/201)",,,18,Control Theory,ELE,,"Vineet Vashista,ME"
+Both,ME 642,Energy Efficient Design of Separation Processes,3,1,0,4,Jaichander S.,M (7/204),R1(7/204),,9,UG Level Thermodynamics,ELE,,"Jaichander S.,ME"
+Both,ES 646,Elastodynamics and Vibrations,3,0,0,4,Jayaprakash KR,K (7/205),,,6,UG level vibration theory,ELE,,"Jayaprakash KR,ES"
+Both,ES 408,Mechatronics,3,0,0,4,Madhu Vadali,T2+K3 (7/203),,Monday 6,00PM to 8:00PM,26,,ELE,"Madhu Vadali,ES"
+Both,HS 111,Urdu Script & Poetry,3,1,0,4,Mohd. Mubashshir Ahsan,"R1, R2 (7/208)",R3 (7/208),,36,,ELE,,"Mohd. Mubashshir Ahsan,HS"
+Both,HS 112,Urdu Poetry Interpretation,3,1,0,4,Mohd. Mubashshir Ahsan,P (7/208),,,37,,ELE,,"Mohd. Mubashshir Ahsan,HS"
+Both,HS 411,Economic Concepts and Issues in Project Analysis,3,0,0,2,A. Ramanathan,H  (7/103),,,28,,ELE,,"A. Ramanathan,HS"
+Both,HS 103,French Studies,3,1,0,4,Ms. Tina Chaudouet,L (7/203),N1  (7/203),,45,,ELE,,"Ms. Tina Chaudouet,HS"
+Both,HS 104,Foundational Sanskrit,3,1,0,4,Mana Shah,L (7/206),N1  (7/206),,39,,ELE,,"Mana Shah,HS"
+Both,HS 512,Political Thought,3,0,0,4,Mona Mehta,J  (7/206),,,36,,ELE,,"Mona Mehta,HS"
+Both,HS 647,"Literature, Theory and Social Context ",3,0,0,4,Angus McBlane,F1 (7/201) + F3+H3 (7/203),,,37,,ELE,,"Angus McBlane,HS"
+Both,HS 510,Perspectives on Indian Civilization,3,0,0,4,Michel Danino,G (7/202),,,34,,ELE,,"Michel Danino,HS"
+Both,HS 211,Exploring India's scientific and technological heritage,3,0,0,4,Michel Danino,J (7/209),,,57,,ELE,,"Michel Danino,HS"
+Both,HS 505,Research Methods in Humanities and Social Sciences,3,0,0,4,Malavika S and Nishant Choksi,K (7/208),,,36,,ELE,,"Malavika S,Nishant Choksi,HS"
+Both,HS 645,History of India 1930-1964,3,0,0,4,Madhumita S,L (7/202),,,10,,ELE,,"Madhumita S,HS"
+Both,HS 301,Introduction to Sociology,3,0,0,4,Tannistha Samanta,H  (7/201),,,15,,ELE,,"Tannistha Samanta,HS"
+Both,HS 313,When you cannot experiment: Social Science Methods,3,0,0,4,Malavika S,J  (7/110),,,38,,ELE,,"Malavika S,HS"
+Both,IN 304,Ancient Indian Technologies,3,1,0,4,Alok Kanungo,R (7/110),,,40,,ELE,,"Alok Kanungo,IN"
+Both,MS 409,"Managerial Economics Concepts, Applications & Cases",3,1,0,4,A. Ramanathan,L (7/102),N2  (7/107),,31,,ELE,,"A. Ramanathan,MS"
+Both,HS 518,"Philosophy, Cognition and Psychoanalysis",3,0,0,4,Arka Chattopadhyay,K (7/202),,,16,,ELE,,"Arka Chattopadhyay,HS"
+Both,HS 638,"Disease, Health & Inequality",3,0,0,4,Tannistha Samanta,L (7/204),,,15,,ELE,,"Tannistha Samanta,HS"
+Both,HS 514,Sociology of Tourism,3,0,0,4,Ambika Aiyadurai,H  (7/102),,,30,,ELE,,"Ambika Aiyadurai,HS"
+Both,FP 602,Writing (for MTech and MA students ),1,0,4,4,"Angus McBlane (I) Sharada C (L), Mona Mehta (L), Himanshu Shekhar (L), Bhaskar Datta (L)",P1 (1/102),,"
+L1+R1 (Tuesday 4PM to 6PM) 
+N3+R2 (Thursday 4PM to 6PM)
+
+(7/210, 7/107, 7/103, 1/003)
+",198,,ELE,,"Angus McBlane,Sharada C,FP"
+Both,EH 601,Earth Surface Processes in the Anthropocene,2,0,2,4,Vikrant Jain/Ajit Singh,"F1, F2 (7/204)",,F3+H3 (7/204),9,,ELE,,"Vikrant Jain,Ajit Singh,EH"
+Both,EH 302,Elements of Earth System Science,3,0,0,4,R N Singh,M (7/205),,,16,,ELE,,"R N Singh,EH"
+Both,EH 610,Engineering Seismology and Seismic Hazard Analysis,3,0,0,4,Sanjay Singh Bora,E (7/201),,,14,,ELE,,"Sanjay Singh Bora,EH"
+Both,EH 609,Environmental Geochemistry and Modelling,3,0,0,4,Manish Kumar Singh,G (7/102),,,9,,ELE,,"Manish Kumar Singh,EH"
+Both,MS 408,Financial Considerations in Engineering Decisions (Second half of semester),3,0,0,2,Chelva Kumar,L (7/201),,,40,,ELE,,"Chelva Kumar,MS"
+Both,MS 410,Medical Products Industry: Quality and Regulations (Second half of semester),3,0,0,2,Latha Chelvakumar,J (7/106),,,17,,ELE,,"Latha Chelvakumar,MS"
+Both,CE 627,Slopes and retaining structures,3,0,0,2,Sarvesh Chandra,N2+P2 (7/101),,,11,,ELE,,"Sarvesh Chandra,CE"
+Both,ES 626,Microfabrication and Semiconductor Processes,3,0,0,4,Nihar Mohapatra,"K3, M3, R3 (7/206)",,,31,,ELE,,"Nihar Mohapatra,ES"
+Both,MS 306,Principles of Business Management,3,0,0,4,Abhijit Kothari,"R1, R2 (7/209)",,,55,,ELE,,"Abhijit Kothari,MS"
+Both,MS 403,Introduction to Engineering Entrepreneurship,3,0,0,4,Raj Jaswa,Tuesday and Wednesday 6:30-8pm. (7/208),,,73,,ELE,,"Raj Jaswa,MS"
+Both,HS 426,Creative Writing in Practice,2,0,2,4,Arka Chattopadhyay,"N1, N2 (7/202)",,N3+R2 (7/202),25,,ELE,,"Arka Chattopadhyay,HS"
+Both,BE 613,Biochemistry,3,0,0,4,Virupakshi Soppina,D (7/202),,,22,,ELE,,"Virupakshi Soppina,BE"
+Both,HS 425,Introduction to Archaeology,3,0,0,4,Sharada C,H (7/209),,,60,,ELE,,"Sharada C,HS"
+Both,BE 614,Biostatistics,2,0,2,4,Karla PMS,"H2, H3 (7/107)",,G1+H1(7/107),31,,ELE,,"Karla PMS,BE"
+Both,HS 519,Linguistic Anthropology,3,0,0,4,Nishaant Choksi,"R1, R3 (7/203)",,,18,,ELE,,"Nishaant Choksi,HS"
+Both,CH 509,General Chemistry Laboratory,0,0,4,6,"Chandrakumar Appayee, Saumyakanti Khatua and Arnab Dutta",,,"M1+N1+P1 (Mon)
+M2+N2+P2 (Wed)
+M3+N3+R2 (Thur)",20,,ELE,,"Chandrakumar Appayee,Saumyakanti Khatua,Arnab Dutta,CH"
+Both,HS 108,Japan Studies,3,0,0,2,Shungo Kawanishi,P + R (7/105) Monday to Friday (5 to 6:30 pm),,,39,,ELE,,"Shungo Kawanishi,HS"
+Both,MS 404,Neuromarketing,3,0,0,2,,,,,,,ELE,,
+Even,HS 151,Economics,3,1,0,4,A Ramanathan,E (1/103),"Batch 1 N1, Batch 2 L1, Bach 3, N2, Batch 4 N3
+(7/209)
+",,235,,,1,"A Ramanathan,HS"
+Even,MA 102,Mathematics II,3,2,0,4,"V. D. Sharma (I+T), Course associates: Pranjal Shrivastava (T), Kamalesh Saha (T), Ayush Jaiswal (T), Pramod Eyyunni (T)",F (1/103),"A1+B1 (7/101, 7/102, 7/103, 7/104, 7/105)",,211,,,1,"V. D. Sharma,MA"
+Even,PH 101,Physics (In two sections),3,1,0,4,Baradhwaj Coleppa (I+T)+ Vinod Chandra (I+T),Course Associates: Gopinadhan Kalon + Sudipta Sarkar + Prasanna B + Arpan Bhattacharya,"C 
+Section I: 1/102
+Section II: 1/103","H1 (7/104, 7/106,7/110,7/201,7/205,7/207)",212,,,1,"Baradhwaj Coleppa, Vinod Chandra,PH"
+Even,ES 104,Introduction to Analog and Digital Electronics (In two sections),3,1,0,4,"Ravi Hegde(I),Nitin Khanna(I+T), Prof. Himanshu Shekhar (T)Prof. Nitin Khanna (T) Ramandeep Kaur (T)Rutu Amit Patel (T)Rahul Madbhavi (T)","D (1/101, 1/102)"," B2(7/102, 7/106, 7/107,7/202 7/203)",,224,,,1,"Ravi Hegde,Nitin Khanna,ES"
+Even,ES 105,Electrical and Electronics Lab,0,0,4,2,Rajendran and Shanmuganathan,,,"[2 pm -6 pm]                Batch 1(K1+M1+N1+P1)
+Batch 2(L1+J1+R1)
+Batch 3(K3+M3+N3+R2)
+Batch 4(J2+L2+R3)  ",216,,,1,"Rajendran,Shanmuganathan,ES"
+Even,ES 106,Manufacturing and Workshop Practice,2,0,3,4,Madhu Vadali,"G1, G2 (1/103)",,"[2 pm -6 pm]                      Batch 1(L1+J1+R1)
+Batch 2(K2+M2+N2)
+Batch 3(K3+M3+N3)
+Batch 4(J2+L2+R3)
+Batch 5(K1+M1+N1)",204,,,1,"Madhu Vadali,ES"
+Even,CH 202,Chemistry Laboratory,0,0,4,2,Sudhanshu Sharma and Bhaskar Datta,,,"[2 pm -6 pm]            Batch 1(K2+M2+N2+P2)
+Batch 2(K3+M3+N3+R2)
+Batch 3(J2+L2+R3)
+Batch 4(K1+M1+N1+P1)
+Batch 5(L1+J1+R1)",208,,,1,"Sudhanshu Sharma,Bhaskar Datta,CH"
+Even,FP 101,Introduction to Engineering,0,0,2,1,Jaichander Swaminathan,G3+I3 (1/103),,,204,,,1,"Jaichander Swaminathan,FP"
+Even,PE 102,Physical Education,0,0,0,0,,,,,207,,,1,
+Even,HS 201,World Civilizations and Cultures,3,0,0,4,Madhumita Sengupta (Section I) and Mona Mehta (Section II),"G 
+(Section I 1/101, Section II 1/102)",,,200,,,2,"Madhumita Sengupta,Mona Mehta,HS"
+Even,MA 202,Mathematics IV,3,2,0,4,"Chetan D. Pahlajani (I+T), Dilip Sundaram (I+T ); Course associates: Rajat Gupta (T), Shivam Dhama (T),",D (1/103),"J2+L2 (1/003, 7/204, 7/206, 7/209, 7/210)
+",,187,,,2,"Chetan D. Pahlajani, Dilip Sundaram; Course associates: Rajat Gupta,MA"
+Even,ES 202,Introduction to Materials,3,1,0,4,"Superb Misra (I), Abhijit Mishra (T), Emila Panda (T), Pradipta Ghosh (T)",H (1/103),"I3 (7/205, 7/104,7/106, 7/110)",,175,,"CS,CL,CE,ME,EE",2,"Superb Misra,ES"
+Even,ES 221,Mechanics of Solids,3,2,0,4,Ravi Ayyagari (I),Ashwini Kumar (T),Jayaprakash K R (T)," Amit Arora (T), Manish Kumar (T)    M1, M3(1/101, 7/201, 7/202, 7/203)",114,E(1/101),"CE,CL,ME,MSE
+",2,"Ravi Ayyagari,ES"
+Even,ES 212,Fluid Mechanics,3,2,0,4,Pranab Mohapatra (I + T)Prachi Thareja (T)Vinod  Narayanan (T)  Sriharita Rowthu (T),C (1/101),"N1+P1
+ (1/101, 7/201, 7/202, 7/203)",,125,,"CE,CL,ME,MSE",2,"Pranab Mohapatra,Prachi Thareja,Vinod  Narayanan,Sriharita Rowthu,ES"
+Even,CL 251,Chemical Engineering Lab I (Fluid Mechanics Lab),0,0,4,2,Prachi Thareja (I),,,"L1+J1
+",33,,CL,2,"Prachi Thareja,CL"
+Even,ES 216,"Signals, Systems, and Networks",3,1,0,4,Himanshu Shekhar (I+T),A (7/209),R3 (7/209),,56,,EE,2,"Himanshu Shekhar,ES"
+Even,EE 331,Electrical Machines,3,1,0,4,Ragavan (I+T),E (7/101),N1 (7/205),,40,,EE,2,"Ragavan,EE"
+Even,CE 202,Sustainability and Environment,1,0,3,3,"Vimal Mishra (I) , Udit Bhatia (L)",F2 (7/206),,L1+J1 (7/206),27,,CE,2,"Vimal Mishra,CE"
+Even,MSE 201 (N),Phase Transformation and Phase Equilibrium,3,0,2,5,Abhay Gautam (I+L),F (7/203),,"J1+L1, M2+N2 (MSE LAB)",19,,MSE,2,"Abhay Gautam,MSE"
+Even,MSE 309,Material Thermodynamics and Kinetics,3,1,0,4,Raghavan Ranganathan and SP Mehrotra (I+T),H (7/101),I3 (7/101),,18,,MSE,2,"Raghavan Ranganathan,SP Mehrotra,MSE"
+Even,ES 301,Data Structures and Algorithms II,3,1,0,4,Manoj Gupta(I+T),B (7/208),M2 (7/208),,56,ES 242: Data Structure  and Algorithms I,CS,2,"Manoj Gupta,ES"
+Even,ES 214,Discrete Mathematics,3,1,0,4,Neeldhara Misra (I+T),K (7/208),R1 (7/208),,42,,CS,2,"Neeldhara Misra,ES"
+Even,ES 215,Computer Organisation and Architecture,3,1,0,4,Joycee Mekie (I+T),C (7/208),"M3, N3(7/210)",,62,ES 203 Digital Systems,CS,2,"Joycee Mekie,ES"
+Even,CL 321,Separation Processes,3,2,0,4,Kaustubh Rane (I + T),C (7/202),"D3,I3 (7/202)",,29,,CL,3,"Kaustubh Rane,CL"
+Even,CL 422,Process Control,3,1,0,4,Sameer Dalvi (I + T),E (7/205),D1 (7/205),,27,,CL,3,"Sameer Dalvi,CL"
+Even,CL 424,Process Analysis and Simulation,1,1,4,3,Chinmay Ghoroi (I + T + L),,,J1+L1+R1 (7/108),27,,CL,3,"Chinmay Ghoroi,CL"
+Even,CL 352,Chemical Engineering Lab -III (Mass Transfer and Reaction Engineering Lab),0,0,4,2,Pratyush Dayal (I),,,"
+J2+L2+R3 (Chem Engg Lab)",29,ES-311: Heat & Mass Transfer,CL,3,"Pratyush Dayal,CL"
+Even,CE 304,Concrete Design,3,1,0,4,Dhiman Basu (I+T),E (7/102),K2 (7/102),,22,,CE,3,"Dhiman Basu,CE"
+Even,CE 305,Steel Design (Half-semester : first half),2,1,0,2,Gaurav (I+T),F (7/102),D3 (7/101),,22,,CE,3,"Gaurav,CE"
+Even,CE 307,Masonary Design (Half-semester : second half),2,1,0,2,Manish Kumar (I+T),F (7/102),D3 (7/101),,25,,CE,3,"Manish Kumar,CE"
+Even,CE 306,Civil Engineering Materials Lab,0,0,4,2,Ravi Kanth (I),,,J1+L1+R1,23,,CE,3,"Ravi Kanth,CE"
+Even,CE 309,Field Survey Project,0,0,0,2,"Vikrant Jain, Vimal Mishra",,,,23,,CE,3,"Vikrant Jain,Vimal Mishra,CE"
+Even,CE 403,Construction Technology and Management,3,0,0,4,Reshma Shah,,,,22,,CE,4,"Reshma Shah,CE"
+Even,CS 327,Compilers,3,0,2,5,Bireswar Das (I+L),E (7/103),,G1+H1 (7/108),42,"Data Structures and Algorithms-I (ES 242or equivalent), Basics of Regular languages and context free languages.",CS,3,"Bireswar Das,CS"
+Even,CS 328,Introduction to Data Science,3,1,0,4,Anirban Dasgupta (I+T),N (7/208),R1 (7/209),,55,"Data Structures and Algorithms-I (ES 242 or equivalent), Probability and Statistics (MA 202 or equivalent)",CS,3,"Anirban Dasgupta,CS"
+Even,ES 332,Control Theory,3,1,0,4,Babji Srinivasan (I+T) Madhu Vadali (T),E (7/208),H1 (7/208),,77,,"EE,ME",3,"Babji Srinivasan,Madhu Vadali,ES"
+Even,EE 333,Power Electronics,2,1,3,4,Rajendran (I+T) Ragavan(L),"G1, G2 (7/101)",G3 (7/101),"Batch 1 (K2+M2+N2)
+Batch 2 (5 PM to 8PM)",28,,EE,3,"Rajendran Ragavan,EE"
+Even,EE 341,Communication Systems,3,1,0,4,Arup (I+T),C (7/101),D2 (7/101),,37,,EE,3,"Arup,EE"
+Even,ES 333,Microprocessors and Embedded Systems,2,1,2,4,Joycee (I+T + L),"F1, F2 (7/208)",F3 (7/208),J1+L1 (7/109),41,,EE,3,"Joycee,ES"
+Even,ME 361,"Integrated Design and Manufacturing I
+",0,1,4,2,N. Ramakrishnan (T + I),,G1(7/201),"G3+I3, J2+L2 (7/201)",33,,ME,3,"N. Ramakrishnan,ME"
+Even,ME 322,Synthesis and Analysis of Mechanisms,2,1,2,4,Vineet Vashista (I+T + L),"F1, F3 (7/201)",F2(7/201),R2 (7/201),37,,ME,3,"Vineet Vashista,ME"
+Even,ME 332,Industrial Engineering and Operations Research,3,1,0,4,N. Ramakrishnan (I+T),D (7/201),H2(7/201),,40,,ME,3,"N. Ramakrishnan,ME"
+Even,ME 352,Mechanical Engineering Laboratory II,0,0,4,2,Harish PM (I),,,J1+L1+R1,35,,ME,3,"Harish PM,ME"
+Even,MSE 302,Corrosion and Degradation of Materials,3,0,0,4,Amit Arora,C (7/110),,,23,,MSE,3,"Amit Arora,MSE"
+Even,MSE 307,Materials Processing,3,0,0,4,Pradipta Ghosh,E (7/110),,,23,,MSE,3,"Pradipta Ghosh,MSE"
+Even,MSE 352,Material Characterization Techniques,2,0,3,4,"Emila (I), ","F1, F2 (7/110)",,"Monday 1 to 6PM
+",22,,MSE,3,"Emila,MSE"
